@@ -1,1 +1,1 @@
-个人TypeScript学校代码仓库
+个人TypeScript学习代码仓库
